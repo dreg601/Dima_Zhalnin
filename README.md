@@ -19,7 +19,7 @@ P.s. Этот репозиторий посвящен именно что тес
 
 Проект                          | Должность (может несколько) | Используемые инструменты
 -----------------------------------| -----------------|------------------------
-[Билайн](https://github.com/dreg601/Dima_Zhalnin/tree/main/Билайн) | Аналитик (junior), Аналитик (SQL), Бизнес-аналитик | *pandas, numpy, matplotlib, HIVEQL*
+[Билайн](https://github.com/dreg601/Dima_Zhalnin/tree/main/Билайн) | Аналитик (junior), Аналитик (SQL), Бизнес-аналитик | *pandas, numpy, matplotlib, HIVEQL, Excel, Power Point*
 [Fix](https://github.com/dreg601/Dima_Zhalnin/tree/main/Fix) | Аналитик данных | *Excel, SQL (диалект postges)*
 [Иннополис](https://github.com/dreg601/Dima_Zhalnin) | Аналитик данных | *pandas, numpy, matplotlib*
 [Совкомбанк](https://github.com/dreg601/Dima_Zhalnin) | Аналитик данных DWH | *SQL (диалект postges)*
