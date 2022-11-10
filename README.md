@@ -19,7 +19,7 @@ P.s. Этот репозиторий посвящен именно что тес
 
 Проект                          | Должность (может несколько) | Используемые инструменты
 -----------------------------------| -----------------|------------------------
-[Билайн](https://github.com/dreg601/Dima_Zhalnin) |Задача: собрать отдельный файл-список с id заказов только мобильных курьеров с 16:00 до 20:00 с конечной точкой доставки заказа в радиусе 1500 метров от заведения | *pandas, numpy,datetime, geopy.distance*
+[Билайн](https://github.com/dreg601/Dima_Zhalnin/tree/main/Билайн) | Аналитик (junior) | *pandas, numpy, matplotlib*
+[Fix](https://github.com/dreg601/Dima_Zhalnin/tree/main/Fix) | Создание дашборда на основе ТЗ и макета. | *Excel, SQL (диалект postges)*
 [Иннополис](https://github.com/dreg601/Dima_Zhalnin) | Описание проекта | Используемая система
 [Совкомбанк](https://github.com/dreg601/Dima_Zhalnin) | Описание проекта | Используемая система
-[Fix](https://github.com/dreg601/Dima_Zhalnin/tree/main/Fix) | Создание дашборда на основе ТЗ и макета. | *Datalens*
