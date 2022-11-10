@@ -22,4 +22,4 @@ P.s. Этот репозиторий посвящен именно что тес
 [Билайн](https://github.com/dreg601/Dima_Zhalnin/tree/main/Билайн) | Аналитик (junior) | *pandas, numpy, matplotlib*
 [Иннополис](https://github.com/dreg601/Dima_Zhalnin) | Описание проекта | Используемая система
 [Совкомбанк](https://github.com/dreg601/Dima_Zhalnin) | Описание проекта | Используемая система
-[Fix](https://github.com/dreg601/Dima_Zhalnin/tree/main/Fix) | Создание дашборда на основе ТЗ и макета. | *Datalens*
+[Fix](https://github.com/dreg601/Dima_Zhalnin/tree/main/Fix) | Создание дашборда на основе ТЗ и макета. | *Excel, SQL (диалект postges)*
