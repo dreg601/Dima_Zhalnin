@@ -8,10 +8,10 @@ where fld not in(select distinct fld from tbl);
 (Сумма в валюте*Ближайший по дате курс валюты)
 	
 select a.data, a.val, sum_val, sum_val*rate as convert_val
-	from public.carry a
-	join currency_rate b on a.val=b.val and a.data>=b.data
-	group by a.data, b.data, a.val, sum_val, convert_val
-	having (b.data-a.data)=min(b.data-a.data);
+from public.carry a
+join currency_rate b on a.val=b.val and a.data>=b.data
+group by a.data, b.data, a.val, sum_val, convert_val
+having (b.data-a.data)=min(b.data-a.data);
 
 Задание 3: Необходимо вывести все сочетания сотрудников, когда оклад руководителя (необязательно
 непосредственного) меньше чем оклад сотрудника.
