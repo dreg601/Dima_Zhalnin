@@ -16,4 +16,5 @@ P.s. Этот репозиторий посвящен только тестов�
 [Fix](https://github.com/dreg601/Dima_Zhalnin/tree/main/Fix) | Аналитик данных | *Excel, SQL (диалект postges)*
 [Иннополис](https://github.com/dreg601/Dima_Zhalnin) | Аналитик данных | *pandas, numpy, matplotlib*
 [Совкомбанк](https://github.com/dreg601/Dima_Zhalnin) | Аналитик данных DWH | *SQL (диалект postges)*
-[Газпром](https://github.com/dreg601/Dima_Zhalnin/tree/main/Газпром) | Аналитик данных | *SQL (диалект postges)*, java, excel
+[Газпром](https://github.com/dreg601/Dima_Zhalnin/tree/main/Газпром) | Аналитик данных | *SQL (диалект postges), java, excel*
+[Ак барс банк](https://github.com/dreg601/Dima_Zhalnin/tree/main/Бизнес-аналитик) | Бизнес-аналитик | *SQL (диалект postges)*
